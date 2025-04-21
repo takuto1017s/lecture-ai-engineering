@@ -1,3 +1,3 @@
 # config.py
 DB_FILE = "chat_feedback.db"
-MODEL_NAME = "deepseek-ai/DeepSeek-V3-0324"
+MODEL_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
